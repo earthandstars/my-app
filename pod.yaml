@@ -27,5 +27,5 @@ spec:
     spec:
       containers:
         - name: hello
-          image: 
+          image: galaxyandstars/myweb:0.0.2
           imagepullpolicy: Always 
